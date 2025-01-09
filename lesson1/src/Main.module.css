@@ -1,0 +1,22 @@
+.maincontent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    background-color: lightblue;
+    color: white;
+    height: 100%;
+    height: auto;
+    width: auto;
+    border-radius: 15px;
+}
+.imgmaincontent{
+    width: 500px;
+    border-radius: 25px;
+    border: 2px dotted white;
+}
+.cont{
+    font-size: 25px;
+    padding: 10px;
+}
