@@ -1,0 +1,16 @@
+.container {
+  padding: 20px;
+  margin: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar {
+  font-size: 20px;
+  display: flex;
+  gap: 25px;  
+}
+
+.main {
+  
+}
