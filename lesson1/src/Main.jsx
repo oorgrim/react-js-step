@@ -5,15 +5,18 @@ function Main() { // базовый компонент (если гаписан�
     <>
         <div>
             <section className={styles.cont}>
-                <h1>ITSTEP</h1>
+                <center><h1>ITSTEP</h1>
                 <img 
-                src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fantalya.itstep.org%2F&psig=AOvVaw1bl2J-7QbPpe1l2GJbheT_&ust=1736524814069000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOir89OA6YoDFQAAAAAdAAAAABAT"
+                src="https://gorodvitebsk.by/images_data/test/e162f50cc800d4a7fa2eae95acfc8928.jpg"
                 alt="info"
                 className={styles.imgmaincontent}
 
                 />
-                <h1>Welcome to Itstep</h1>
-                <p>we are the best programming school in the world</p>
+                <div className="welcome">
+                <h1>Welcome to Itstep!</h1>
+                <h3>we are the best programming school in the world</h3>
+                </div>
+                </center>
             </section>
         </div>
     </>
