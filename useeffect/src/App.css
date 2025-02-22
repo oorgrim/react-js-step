@@ -1,0 +1,30 @@
+body {
+  background-color: pink;
+  color: rgb(27, 44, 55);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* 100% высоты экрана */
+  text-align: center;
+}
+
+.App-container {
+  text-align: center;
+}
+
+.switchBTN, .clickBTN {
+  margin: 10px;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: rgb(255, 131, 152);
+}
+
+.image-container {
+  margin-top: 20px;
+}
+
+.centered-image {
+  width: 200px;
+  height: auto;
+}
